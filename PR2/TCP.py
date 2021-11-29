@@ -1,6 +1,6 @@
 import socket
 
-IP = '127.0.0.1'
+IP = 'localhost'
 PORT = 7500
 BUFFER_SIZE = 1024
 LOAD = "TCP Stream "

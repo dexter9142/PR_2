@@ -1,6 +1,6 @@
 import socket
 
-IP = '127.0.0.1'
+IP = 'localhost'
 PORT = 8000
 BUFFER_SIZE = 1024
 LOAD = "UDP Stream"

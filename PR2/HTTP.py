@@ -1,6 +1,6 @@
 import http.client
 
-IP = '127.0.0.1'
+IP = 'localhost'
 PORT = 8002
 BUFFER_SIZE = 1024
 MESSAGE = "HTTP Stream "
