@@ -1,4 +1,5 @@
-# Laboratory 2
+# PR-Lab2
+Laboratory #2
 
 # Requirements
 For the 40% check:
